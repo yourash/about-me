@@ -19,7 +19,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <div class="collapse navbar-collapse ml-5" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a class="nav-link" href="#short_info">Short info</a>
@@ -28,7 +28,7 @@
                         <a class="nav-link" href="#skills">Skills</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Mass media</a>
+                        <a class="nav-link" href="#massmedia">Mass media</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">References</a>
@@ -86,34 +86,90 @@
     <p id="skills">
         <br>
     </p>
-<!--
     <div class="container">
         <div class="row">
             <div class="col-sm" style="background: #E0E0E0;">
-                <h4 style>Programming</h4>
+                <h4 style>Programming and other pc skills</h4>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-sm-3 col_skill">
-                <img src="/img/python.png" class="rounded" alt="">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/python.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
             </div>
-            <div class="col-sm-7">
-                2 of 4
+            <div class="col-10">
+                <h5>Flask, Django(base), aiohttp(base), pytg, pyQt5, telebot/pyTelegramBotApi, bs4, vk, threading, selenium, etc</h5>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-sm-3 col_skill  h-25">
-                <img src="/img/cpp.png" class="img-fluid rounded" alt="">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/cpp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
             </div>
-            <div class="col-sm-7">
-                2 of 4
+            <div class="col-10">
+                <h5>Cocos2d-x, Qt(base)</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/php.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Base</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/html_css.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Base front-end skills, experience with bootstrap4</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/csharp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Base winform, asp.net experience</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/js.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Base angular</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/linux.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Experience with debian, kali, ubuntu, mint, centOS, rhel. Base knowlege of bash</h5>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-2 col_skill" style="height: 60px;">
+                <img src="/img/computer.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            </div>
+            <div class="col-10">
+                <h5>Other skills: Kotlin, nginx, Pascal/Delphy, ObjC (base), windows shell/dos, microsoft office</h5>
             </div>
         </div>
     </div>
--->
-
+    
+    <p id="massmedia">
+        <br>
+    </p>
+    
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="lib/bootstrap/js/bootstrap.min.js"></script>
