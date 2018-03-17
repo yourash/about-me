@@ -5,6 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+
     <title>Anton Yurash</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -31,7 +33,7 @@
                         <a class="nav-link" href="#massmedia">Mass media</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">References</a>
+                        <a class="nav-link" href="#references">References</a>
                     </li>
                 </ul>
             </div>
@@ -83,108 +85,152 @@
             </div>
         </div>
     </div>
-    <p id="skills">
+    <p>
         <br>
     </p>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm" style="background: #E0E0E0;">
-                <h4 style>Programming and other pc skills</h4>
+    <div class="gradient">
+        <div class="container" id="skills" style="color: #FAFAFA;">
+            <div class="row table">
+                <div class="col-sm">
+                    <h3 style>Programming and other pc skills</h3>
+                </div>
             </div>
-        </div>
 
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/python.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/python.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Flask, Django(base), aiohttp(base), pytg, pyQt5, telebot/pyTelegramBotApi, bs4, vk, threading, selenium, etc</h5>
+                </div>
             </div>
-            <div class="col-10">
-                <h5>Flask, Django(base), aiohttp(base), pytg, pyQt5, telebot/pyTelegramBotApi, bs4, vk, threading, selenium, etc</h5>
-            </div>
-        </div>
 
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/cpp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/cpp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Cocos2d-x, Qt(base)</h5>
+                </div>
             </div>
-            <div class="col-10">
-                <h5>Cocos2d-x, Qt(base)</h5>
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/php.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Base</h5>
+                </div>
             </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/php.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/html_css.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Base front-end skills, experience with bootstrap4</h5>
+                </div>
             </div>
-            <div class="col-10">
-                <h5>Base</h5>
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/csharp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Base winform, asp.net experience</h5>
+                </div>
             </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/html_css.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/js.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Base angular</h5>
+                </div>
             </div>
-            <div class="col-10">
-                <h5>Base front-end skills, experience with bootstrap4</h5>
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/linux.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Experience with debian, kali, ubuntu, mint, centOS, rhel. Base knowlege of bash</h5>
+                </div>
             </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/csharp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
-            </div>
-            <div class="col-10">
-                <h5>Base winform, asp.net experience</h5>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/js.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
-            </div>
-            <div class="col-10">
-                <h5>Base angular</h5>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/linux.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
-            </div>
-            <div class="col-10">
-                <h5>Experience with debian, kali, ubuntu, mint, centOS, rhel. Base knowlege of bash</h5>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-2 col_skill" style="height: 60px;">
-                <img src="/img/computer.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
-            </div>
-            <div class="col-10">
-                <h5>Other skills: Kotlin, nginx, Pascal/Delphy, ObjC (base), windows shell/dos, microsoft office</h5>
+
+            <div class="row table">
+                <div class="col-3 col_skill" style="height: 60px;">
+                    <img src="/img/computer.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                </div>
+                <div class="col-9">
+                    <h5>Other skills: Kotlin, nginx, Pascal/Delphy, ObjC (base), windows shell/dos, microsoft office</h5>
+                </div>
             </div>
         </div>
     </div>
-    
-    <p id="massmedia">
+
+    <p>
         <br>
     </p>
-    
 
+    <div class="container" id="massmedia">
+        <div class="row">
+            <div class="col-sm">
+                <div class="card text-center">
+                    <div class="card-header">Dou.ua</div>
+                    <div class="card-body">
+                        <img src="/img/dou.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                        <h4 class="card-title">Путь самоучки: pet-проекты и подводные камни самостоятельного изучения IT</h4>
+                        <p class="card-text">(Антон Юраш и электрификация)</p>
+                        <a href="https://dou.ua/lenta/articles/pet-projects/" class="btn btn-primary">Read article</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="card text-center">
+                    <div class="card-header">Studway</div>
+                    <div class="card-body">
+                        <img src="/img/studway.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
+                        <h4 class="card-title">Студенти НТУУ «КПІ ім. І.Сікорського» створили бота для пошуку розеток</h4>
+                        <p class="card-text">&#8194;</p>
+                        <a href="http://studway.com.ua/studenti-ntuu-kpi/" class="btn btn-primary">Read article</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>
+            <br>
+        </p>
+        <div class="container" id="references">
+            <div style="margin-left: 20%;">
+                <a href="https://github.com/yourash"><img src="/img/github.png" class="img-fluid rounded w-25" alt=""></a>
+                <a href="https://www.instagram.com/tohas_ua/"><img src="/img/insta.png" class="img-fluid rounded w-25" alt=""></a>
+                <a href="https://t.me/yourash"><img src="/img/tg.png" class="img-fluid rounded w-25" alt=""></a>
+            </div>
+        </div>
+    </div>
+    <!--
+                <div class="col-sm">
+                    <a href=""><img src="/img/momentum.png" class="img-fluid rounded" alt=""></a>
+                </div>
+        -->
+    <footer style="">
+        <div class="container">
+            <div class="row">
+                <hr>
+                <div class="">
+                    <div class="">
+                        <br>
+                        <p class="muted pull-right">© 2018 Anton Yurash. All rights reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 </body>
 
 </html>
-
-<style>
-    .spacer {
-        width: 100%;
-        height: 60px;
-    }
-
-    .col_skill {
-        background: #EEEEEE;
-    }
-
-</style>
