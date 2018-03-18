@@ -7,7 +7,7 @@
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <title>Anton Yurash</title>
-    <meta name="description" content="Anton Yurash. Short info and references" />
+    <meta name="description" content="Anton Yurash. Short info and references">
     <meta name="keywords" content="Anton Yurash Антон Юраш python developer разработчик розробник програміст смм smm блогер блоггер Антон Павлович Юраш">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
