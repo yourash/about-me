@@ -8,7 +8,7 @@
     <link href="/css/style.css" rel="stylesheet">
     <title>Anton Yurash</title>
     <meta property="og:title" content="Anton Yurash. Short info and references.">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="website">
     <meta property="og:url" content="http://yourash.momentum-bots.top">
     <meta property="og:image" content="/img/pic.jpg">
     <meta name="description" content="Anton Yurash. Short info and references.">
