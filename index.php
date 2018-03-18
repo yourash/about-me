@@ -6,8 +6,9 @@
     <meta charset="UTF-8">
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
-
     <title>Anton Yurash</title>
+    <meta name="description" content="Anton Yurash. Short info and references" />
+    <meta name="keywords" content="Anton Yurash Антон Юраш python developer разработчик розробник програміст смм smm блогер блоггер Антон Павлович Юраш">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
@@ -57,7 +58,7 @@
                         <p class="text" style="">
                             <p><strong>Location:</strong> Kyiv, Ukraine</p>
                             <p><strong>About:</strong> Manager, python programmer, </p>
-                            <p>CEO, Founder <a href="http://momentum-bots.top">Momentum bots</a></p>
+                            <p><strong>Current job:</strong>CEO, Founder <a href="http://momentum-bots.top">Momentum bots</a></p>
                         </p>
                         <!--<a href="#" class="btn btn-primary">See Profile</a>-->
                     </div>
@@ -66,6 +67,7 @@
             <div class="col-sm-7">
                 <p id="short_info">
                 </p>
+                <h1>Anton Yurash</h1>
                 <h4>Some information about myself:</h4>
                 <p>
                     My writing skills in English aren't so great, so you may find some mistakes in this text. But I have good speaking skills, haha (having spent a lot of time playing an online computer game CS:GO, I improved my speaking skills so much, thx Gaben).
@@ -92,7 +94,7 @@
         <div class="container" id="skills" style="color: #FAFAFA;">
             <div class="row table">
                 <div class="col-sm">
-                    <h3 style>Programming and other pc skills</h3>
+                    <h3 style>Programming and other pc skills.</h3>
                 </div>
             </div>
 
@@ -101,7 +103,7 @@
                     <img src="/img/python.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Flask, Django(base), aiohttp(base), pytg, pyQt5, telebot/pyTelegramBotApi, bs4, vk, threading, selenium, etc</h5>
+                    <h5>Flask, Django(base), aiohttp(base), pytg, pyQt5, telebot/pyTelegramBotApi, bs4, vk, threading, selenium, etc.</h5>
                 </div>
             </div>
 
@@ -110,7 +112,7 @@
                     <img src="/img/cpp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Cocos2d-x, Qt(base)</h5>
+                    <h5>Cocos2d-x, Qt(base).</h5>
                 </div>
             </div>
 
@@ -119,7 +121,7 @@
                     <img src="/img/php.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Base</h5>
+                    <h5>Base.</h5>
                 </div>
             </div>
 
@@ -128,7 +130,7 @@
                     <img src="/img/html_css.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Base front-end skills, experience with bootstrap4</h5>
+                    <h5>Base front-end skills, experience with bootstrap4.</h5>
                 </div>
             </div>
 
@@ -137,7 +139,7 @@
                     <img src="/img/csharp.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Base winform, asp.net experience</h5>
+                    <h5>Base winform, asp.net experience.</h5>
                 </div>
             </div>
 
@@ -146,7 +148,7 @@
                     <img src="/img/js.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Base angular</h5>
+                    <h5>Base angular.</h5>
                 </div>
             </div>
 
@@ -155,7 +157,7 @@
                     <img src="/img/linux.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Experience with debian, kali, ubuntu, mint, centOS, rhel. Base knowlege of bash</h5>
+                    <h5>Experience with debian, kali, ubuntu, mint, centOS, rhel. Base knowlege of bash.</h5>
                 </div>
             </div>
 
@@ -164,7 +166,7 @@
                     <img src="/img/computer.png" class="mx-auto d-block rounded center" style="height: 60px;" alt="">
                 </div>
                 <div class="col-9">
-                    <h5>Other skills: Kotlin, nginx, Pascal/Delphy, ObjC (base), windows shell/dos, microsoft office</h5>
+                    <h5>Other skills: Kotlin, nginx, Pascal/Delphy, ObjC (base), windows shell/dos, microsoft office, mogodb, redis.</h5>
                 </div>
             </div>
         </div>
