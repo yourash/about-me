@@ -54,8 +54,9 @@
                 <div class="card">
                     <img src="/img/pic.jpg" class="w-75 img-fluid rounded mx-auto d-block" alt="Place for my image">
                     <div class="card-body w-75 img-fluid d-block" style="align-self: center">
-                        <h4 class="card-title">Anton Yurash</h4>
+                        <h5 class="card-title">Anton Yurash</h5>
                         <p class="text" style="">
+                            <p><strong>A.K.A.</strong> YouRASH, tohas_ua</p>
                             <p><strong>Location:</strong> Kyiv, Ukraine</p>
                             <p><strong>About:</strong> Manager, python programmer, </p>
                             <p><strong>Current job:</strong>CEO, Founder <a href="http://momentum-bots.top">Momentum bots</a></p>
