@@ -67,8 +67,7 @@
             <div class="col-sm-7">
                 <p id="short_info">
                 </p>
-                <h1>Anton Yurash</h1>
-                <h4>Some information about myself:</h4>
+                <h1 style="text-align: center;">Anton Yurash</h1>
                 <p>
                     My writing skills in English aren't so great, so you may find some mistakes in this text. But I have good speaking skills, haha (having spent a lot of time playing an online computer game CS:GO, I improved my speaking skills so much, thx Gaben).
                 </p>
