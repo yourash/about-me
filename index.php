@@ -7,10 +7,12 @@
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <title>Anton Yurash</title>
+    
     <meta property="og:title" content="Anton Yurash. Short info and references.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://yourash.momentum-bots.top">
     <meta property="og:image" content="/img/pic.jpg">
+    
     <meta name="description" content="Anton Yurash. Short info and references.">
     <meta name="keywords" content="Anton, Yurash, Антон, Юраш, python, developer, разработчик, розробник, програміст, смм, smm, блогер, блоггер, Антон Павлович Юраш">
     <meta name="author" content="Anton Yurash">
